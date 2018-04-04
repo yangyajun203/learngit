@@ -1,1 +1,2 @@
-测试git add问价到库中
+﻿测试git add文件
+修改文本内容 查看state
