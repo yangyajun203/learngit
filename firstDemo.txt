@@ -1,2 +1,3 @@
 ﻿测试git add文件
 修改文本内容 查看state
+the third change 
