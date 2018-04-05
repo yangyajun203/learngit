@@ -19,3 +19,5 @@ git push -u origin master   将本地库的所有内容推送到远程库中
 git pull --rebase origin master 将远程库中的文件同步到本地库中
 （使用 git push 前可以使用）
 
+git clone git@github.com:yangyajun203/learngit.git
+克隆远程库到本地（好用，用于下载公用资源）
