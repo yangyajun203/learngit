@@ -1,0 +1,21 @@
+
+持续更新中。。。。。
+
+git add              将文件从工作区添加到暂存区
+
+git commit -m "****" 提交文件到 master分支中
+
+git relog            查看操作的版本号，用作回退
+git reset --hard 版本号   恢复到某一版本
+
+git checkout -- 文件名  撤销工作区中文件的 修改
+git reset HEAD 文件名   恢复到最新版本（可以用作撤销寄存区的修改，回到工作区）
+
+git remote add origin git@github.com:yangyajun203/learngit.git
+(添加远程库，original是库名，learngit是github上创建的库名)
+
+git push -u origin master   将本地库的所有内容推送到远程库中
+
+git pull --rebase origin master 将远程库中的文件同步到本地库中
+（使用 git push 前可以使用）
+
