@@ -1,0 +1,1 @@
+test git tool add file to the tree
